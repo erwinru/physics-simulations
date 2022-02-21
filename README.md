@@ -1,7 +1,13 @@
 # Physics Simulations from computational physics course
 
-![Potential](/potential/results/animation.gif)
+Here are three small projects.
 
-![Molecular-Dynamics](/molecular-dynamics/results/animation.gif)
+1. Evolution of potential with boundary conditions
+2. Molecular Dynamics
+3. Electromagnetical wave approaching and transcending a wall
 
-![Wave](/wave/results/animation2.gif)
+![Potential](./potential/results/animation.gif)
+
+![Molecular-Dynamics](./molecular-dynamics/results/animation.gif)
+
+![Wave](./wave/results/animation2.gif)

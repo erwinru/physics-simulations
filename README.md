@@ -1,7 +1,7 @@
 # Physics Simulations from computational physics course
 
-![Potential](./exercise4/results/animation.gif)
+![Potential](/potential/results/animation.gif)
 
-![Molecular-Dynamics](./exercise5/results/animation.gif)
+![Molecular-Dynamics](/molecular-dynamics/results/animation.gif)
 
-![Wave](./exercise7/results/animation2.fig)
+![Wave](/wave/results/animation2.gif)
